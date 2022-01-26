@@ -1,3 +1,14 @@
+## Crud simples com react e next.js.
+
+Quem quiser praticar os links abaixo são para aulas gratuitas da Cod3r com o prof Leonardo Leitão.
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=PHKaJlAeNLk">Aula 01 Fundamentos de React</a></li>
+  <li><a href="https://www.youtube.com/watch?v=HJN5rX-3SDM&t=1942s">Aula 02 Aplicação completa com Next.js</a></li>
+</ul>
+
+##
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
